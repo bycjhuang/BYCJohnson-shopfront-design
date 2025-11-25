@@ -1,0 +1,5 @@
+{
+  "name": "StoreFront AI",
+  "description": "A professional AI-powered tool for designing shop fronts. Upload references, mask the renovation area, and generate photorealistic design concepts using Gemini.",
+  "requestFramePermissions": []
+}
